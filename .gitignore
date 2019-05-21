@@ -1,0 +1,12 @@
+
+\.vs/
+
+*.sln
+
+drill-controll/MDK/
+
+drill-controll/obj/
+
+drill-controll/drill-controll\.csproj
+
+drill-controll/thumb\.png
